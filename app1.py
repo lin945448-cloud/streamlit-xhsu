@@ -1,3 +1,5 @@
+2026年关闭
+
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -857,5 +859,3 @@ if uploaded_files:
 else:
     st.info("👆 请上传Excel文件开始分析。")
 
-
-2026年关闭
